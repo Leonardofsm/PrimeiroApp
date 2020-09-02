@@ -44,31 +44,31 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-         
-    <Button
-        android:layout_weight="1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="30dp"
-        android:layout_marginTop="30dp"
-        android:layout_marginRight="30dp"
-        android:layout_marginBottom="30dp"
-        android:background="#3B7A3E"
-        android:text="LOGIN"
-        android:textColor="#F6F5F5"
-        android:textStyle="bold" />
 
-    <Button
-        android:layout_weight="1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
-        android:layout_marginLeft="30dp"
-        android:layout_marginRight="30dp"
-        android:layout_marginBottom="10dp"
-        android:background="#FF9800"
-        android:text="SAIR"
-        android:textColor="#FFFFFF" />
+        <Button
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="30dp"
+            android:background="#3B7A3E"
+            android:text="LOGIN"
+            android:textColor="#F6F5F5"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="10dp"
+            android:background="#FF9800"
+            android:text="SAIR"
+            android:textColor="#FFFFFF" />
 
     </LinearLayout>
 
